@@ -10,7 +10,6 @@
 	"DocsURL": "https://github.com/MaksymKapelianovych/TypedGameplayTags/blob/main/README.md",
 	"FabURL": "com.epicgames.launcher://ue/Fab/product/58535000-1360-4c4d-a966-8fe66a83f04a",
 	"SupportURL": "https://github.com/MaksymKapelianovych/TypedGameplayTags/issues",
-	"EngineVersion": "5.5.0",
 	"CanContainContent": false,
 	"Installed": false,
 	"Modules": [
